@@ -31,3 +31,4 @@ pypdf
 chroma
 faiss-cpu
 tiktoken
+docx2txt
